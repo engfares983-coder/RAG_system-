@@ -1,3 +1,2 @@
 Fastapi==0.162.0
 uvicorn[stander]==0.54.0
-
